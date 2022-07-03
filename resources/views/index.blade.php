@@ -145,7 +145,7 @@
       <div class="myslide fadee">
         <div class="txt">
           <h1>IMAGE 2</h1>
-          <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+          <p>Get your<br>Free Consultation</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
         <img src="assets/img/portfolio/portfolio-5.jpg" style="width: 100%; height: 100%;">
@@ -154,7 +154,7 @@
       <div class="myslide fadee">
         <div class="txt">
           <h1>IMAGE 3</h1>
-          <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+          <p>Anything about<br>Hydrostatic matters</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
         <img src="assets/img/portfolio/portfolio-8.jpg" style="width: 100%; height: 100%;">
@@ -163,7 +163,7 @@
       <div class="myslide fadee">
         <div class="txt">
           <h1>IMAGE 4</h1>
-          <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+          <p>The pioneer in<br>Jakarta, Indonesia</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
         <img src="assets/img/portfolio/portfolio-9.jpg" style="width: 100%; height: 100%;">
@@ -172,7 +172,7 @@
       <div class="myslide fadee">
         <div class="txt">
           <h1>IMAGE 5</h1>
-          <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+          <p>Hubungi Kami<br>Sekarang!</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
         <img src="assets/img/portfolio/portfolio-6.jpg" style="width: 100%; height: 100%;">
