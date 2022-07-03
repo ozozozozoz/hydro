@@ -136,7 +136,7 @@
       <div class="myslide fadee">
         <div class="txt">
           <h1>IMAGE 1</h1>
-          <p>Web Devoloper<br>Subscribe To My Channel For More Videos</p>
+          <p>Solutions for<br>Pro Business Plan</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
         <img src="assets/img/portfolio/portfolio-7.jpg" style="width: 100%; height: 100%;">
