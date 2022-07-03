@@ -238,7 +238,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">Fleksibel</a></h4>
-              <p>Waktu yang mudah disesuaikan</p>
+              <p>Waktu yang mudah disesuaikan berdasarakan keperluan klien</p>
             </div>
           </div>
 
@@ -246,7 +246,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Administratif Mudah</a></h4>
-              <p>Tidak berbelit-belit</p>
+              <p>Tidak berbelit-belit. Mungkin termudah di seluruh Indonesia</p>
             </div>
           </div>
 
@@ -254,7 +254,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4><a href="">Tepat waktu</a></h4>
-              <p>Karena time is money</p>
+              <p>Karena time is money. Kami sangat menghargai waktu anda</p>
             </div>
           </div>
 
