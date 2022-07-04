@@ -336,5 +336,26 @@ img{
 	.sign a{
 		font-size: 12px;
 	}
+	.wa-btn{
+		border-radius: 50%;
+		position: fixed;
+		right: 0.8%;
+		bottom: 10%;
+		width: 30px;
+		height: 30px;
+		/* background-color: green; */
+		/* background-image: url("/assets/img/wa.png"); */
+	}
 }
 /* /6 */
+
+.wa-btn{
+	border-radius: 50%;
+	position: fixed;
+	right: 0.8%;
+	bottom: 7%;
+	width: 50px;
+	height: 50px;
+	/* background-color: green; */
+	/* background-image: url("/assets/img/wa.png"); */
+}

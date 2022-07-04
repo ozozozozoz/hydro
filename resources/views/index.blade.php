@@ -34,7 +34,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
+  <header id="header" class="fixed-top headerr">
     <div class="container d-flex align-items-center">
 
       <h1 class="logo me-auto"><a href="/">Hydro</a></h1>
@@ -520,7 +520,11 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+ {{-- ======== WA BUTTON ======== --}}
+{{-- <div class="wa-btn bx bxl-whatsapp"> --}}
+  <a class="wa-btn" href="https://api.whatsapp.com/send?phone=6281288472408" ><img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/></a>
+{{-- </div> --}}
+
   <footer id="footer">
 
     <div class="container footer-bottom clearfix">
@@ -533,7 +537,6 @@
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

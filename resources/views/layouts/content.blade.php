@@ -27,6 +27,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/testi-style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -177,6 +178,11 @@
   
         </div>
       </section><!-- End Contact Section -->
+
+       {{-- ======== WA BUTTON ======== --}}
+  {{-- <div class="wa-btn bx bxl-whatsapp"> --}}
+    <a class="wa-btn" href="https://api.whatsapp.com/send?phone=6281288472408" ><img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/></a>
+
 
    <!-- ======= Footer ======= -->
    <footer id="footer">
