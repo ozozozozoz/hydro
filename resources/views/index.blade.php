@@ -139,7 +139,7 @@
           <p>Solutions for<br>Pro Business Plan</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/portfolio/portfolio-7.jpg" style="width: 100%; height: 100%;">
+        <img src="assets/img/3.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fadee">
@@ -148,7 +148,7 @@
           <p>Get your<br>Free Consultation</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/portfolio/portfolio-5.jpg" style="width: 100%; height: 100%;">
+        <img src="assets/img/4.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fadee">
@@ -157,7 +157,7 @@
           <p>Anything about<br>Hydrostatic matters</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/portfolio/portfolio-8.jpg" style="width: 100%; height: 100%;">
+        <img src="assets/img/6.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fadee">
@@ -166,7 +166,7 @@
           <p>The pioneer in<br>Jakarta, Indonesia</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/portfolio/portfolio-9.jpg" style="width: 100%; height: 100%;">
+        <img src="assets/img/5.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fadee">
@@ -175,7 +175,7 @@
           <p>Hubungi Kami<br>Sekarang!</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/portfolio/portfolio-6.jpg" style="width: 100%; height: 100%;">
+        <img src="assets/img/5.jpeg" style="width: 100%; height: 100%;">
       </div>
       <!-- /fade css -->
       
