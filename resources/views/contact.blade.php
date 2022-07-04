@@ -44,7 +44,7 @@
           <li><a href="/about">ABOUT US</a></li>
           <li class="dropdown"><a href="#"><span>OUR PROJECT</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Project 1</a></li>
+              <li><a href="/project1">Project 1</a></li>
               {{-- <li class="dropdown"><a href="#"><span>OUR PROJECT</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
