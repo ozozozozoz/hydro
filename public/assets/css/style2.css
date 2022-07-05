@@ -325,7 +325,7 @@ img{
 /* /5 */
 
 /* 6 */
-@media screen and (max-width: 520px){
+@media screen and (max-width: 505px){
 	.txt h1{
 		font-size: 30px;
 		margin-bottom: 20px;
@@ -346,16 +346,32 @@ img{
 		/* background-color: green; */
 		/* background-image: url("/assets/img/wa.png"); */
 	}
+	.wa-btn-container{
+		border-radius: 50%;
+		position: fixed;
+		display: inline-block;
+		right: 1%;
+		bottom: 12%;
+		width: 50px;
+		height: 50px;
+		/* background-color: green; */
+		background-image:url('/assets/img/wa.png');
+		margin-right: 9px;
+		/* background-size: 50px 50px; */
+	}
 }
 /* /6 */
 
-.wa-btn{
+.wa-btn-container{
 	border-radius: 50%;
 	position: fixed;
-	right: 0.8%;
-	bottom: 7%;
+	display: inline-block;
+	right: 0.9%;
+	bottom: 12%;
 	width: 50px;
 	height: 50px;
 	/* background-color: green; */
-	/* background-image: url("/assets/img/wa.png"); */
+	background-image:url('/assets/img/wa.png');
+	background-size: 50px 50px;
 }
+

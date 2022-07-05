@@ -43,6 +43,7 @@
         <ul>
           <li><a class="nav-link scrollto" href="/">HOME</a></li>
           <li><a href="/about">ABOUT US</a></li>
+          <li><a href="/expertise">EXPERTISE</a></li>
           <li class="dropdown"><a href="#"><span>OUR PROJECT</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="/project1">Our Project 1</a></li>
@@ -61,7 +62,6 @@
             </ul>
           </li> 
           <li><a class="nav-link scrollto" href="/testi">TESTIMONIALS</a></li>
-          <li><a class="nav-link scrollto" href="/news">NEWS</a></li>
           <li><a class="nav-link scrollto" href="/kontak">CONTACT US</a></li>
           <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li>-->
         </ul>
@@ -180,8 +180,16 @@
       </section><!-- End Contact Section -->
 
        {{-- ======== WA BUTTON ======== --}}
-  {{-- <div class="wa-btn bx bxl-whatsapp"> --}}
-    <a class="wa-btn" href="https://api.whatsapp.com/send?phone=6281288472408" ><img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/></a>
+<div class="wa-btn-container">
+  <a class="wa-btn" style="border-radius: 50%;
+	position: fixed;
+	display: block;
+	right: 0.9%;
+	bottom: 12%;
+	width: 50px;
+	height: 50px;" href="https://api.whatsapp.com/send?phone=6281288472408" ></a>
+  {{-- <img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/> --}}
+</div>
 
 
    <!-- ======= Footer ======= -->

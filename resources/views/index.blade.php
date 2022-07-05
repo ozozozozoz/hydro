@@ -45,6 +45,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/">HOME</a></li>
           <li><a href="/about">ABOUT US</a></li>
+          <li><a href="/expertise">EXPERTISE</a></li>
           <li class="dropdown"><a href="#"><span>OUR PROJECT</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="/project1">Our Project 1</a></li>
@@ -62,7 +63,6 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="/testi">TESTIMONIALS</a></li>
-          <li><a class="nav-link scrollto" href="#contact">NEWS</a></li>
           <li><a class="nav-link scrollto" href="/kontak">CONTACT US</a></li>
           <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li>-->
         </ul>
@@ -139,7 +139,7 @@
           <p>Solutions for<br>Pro Business Plan</p>
           <a href="#about" class="btn-slider">Get Started</a>
         </div>
-        <img src="assets/img/3.jpg" style="width: 100%; height: 100%;">
+        <img class="sliderimg" src="assets/img/3.jpg" style="width: 100%; height: 100%;">
       </div>
       
       <div class="myslide fadee">
@@ -521,9 +521,16 @@
   </main><!-- End #main -->
 
  {{-- ======== WA BUTTON ======== --}}
-{{-- <div class="wa-btn bx bxl-whatsapp"> --}}
-  <a class="wa-btn" href="https://api.whatsapp.com/send?phone=6281288472408" ><img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/></a>
-{{-- </div> --}}
+<div class="wa-btn-container">
+  <a class="wa-btn" style="border-radius: 50%;
+	position: fixed;
+	display: block;
+	right: 0.9%;
+	bottom: 12%;
+	width: 50px;
+	height: 50px;" href="https://api.whatsapp.com/send?phone=6281288472408" ></a>
+  {{-- <img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/> --}}
+</div>
 
   <footer id="footer">
 

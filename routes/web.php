@@ -25,6 +25,8 @@ Route::get('/', function () {
 
 Route::get('about', [AboutViewController::class,'index']);
 
+Route::view('expertise', 'expertise');
+
 Route::get('/testi', function () {
     return view('testi');
 });

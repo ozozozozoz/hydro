@@ -42,6 +42,7 @@
         <ul>
           <li><a class="nav-link scrollto" href="/">HOME</a></li>
           <li><a href="/about">ABOUT US</a></li>
+          <li><a class="nav-link scrollto" href="/news">EXPERTISE</a></li>
           <li class="dropdown"><a href="#"><span>OUR PROJECT</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="/project1">Project 1</a></li>
@@ -60,7 +61,6 @@
             </ul>
           </li> 
           <li><a class="nav-link scrollto" href="/testi">TESTIMONIALS</a></li>
-          <li><a class="nav-link scrollto" href="/news">NEWS</a></li>
           <li><a class="nav-link scrollto" href="/contact">CONTACT US</a></li>
           <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li>-->
         </ul>
