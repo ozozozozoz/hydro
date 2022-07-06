@@ -74,16 +74,17 @@
 	background-size: 50px 50px;
 }
 
-@media screen and (max-width: 520px){
+@media screen and (max-width: 505px){
 	.wa-btn-container{
 		border-radius: 50%;
+		display: inline-block;
 		position: fixed;
-		right: 0.8%;
-		bottom: 10%;
-		width: 30px;
-		height: 30px;
+		right: 1.8%;
+		bottom: 13%;
+		width: 50px;
+		height: 50px;
 		/* background-color: green; */
-		/* background-image: url("/assets/img/wa.png"); */
+		background-image: url("/assets/img/wa.png");
 	}
 
 }
@@ -108,16 +109,25 @@
 	.grid-image{
 		flex-basis: 50%;
 	}
+	.past-photo{
+		flex-basis: 50%;
+	}
 }
 
 @media only screen and (min-width: 700px){
 	.grid-image{
 		flex-basis: 1%;
 	}
+	.past-photo{
+		flex-basis: 1%;
+	}
 }
 
 @media only screen and (min-width: 1280px){
 	.grid-image{
+		flex-basis: 25%;
+	}
+	.past-photo{
 		flex-basis: 25%;
 	}
 }
@@ -129,17 +139,37 @@
 
 .our-project-div{
 	justify-content: center;
-	
+	margin-left: 170px;
 }
+
 
 .left-txt{
 	width: 55%;
 	display:table-row;
-	padding-right: 20px;
+	margin-left: 10px;
+	padding: 0px;
+	padding-right: 15px;
 }
 
 .right-txt{
 	width: 45%;
 	display:contents;
+}
+
+.project-photo{
+	/* margin-left: 180px;
+	flex-basis: 25%;
+	margin-bottom: 10px; */
+	display: flex;
+	width: 100%;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.past-photo{
+	display: block;
+	flex-basis: 100%;
+	padding: 10px;
+	box-sizing: border-box;
 }
 

@@ -10,8 +10,8 @@
 
 @section('content')
 
-<div class="our-project-div">
-    <img src="assets/img/1.jpg" style="width: 700px; height: 430px;justify-content:center;">
+<div class="our-project-div project-photo">
+    <img src="assets/img/1.jpg" class="past-photo" style="width: 900px; height: 430px;justify-content:center;">
 </div>
 <br/>
 <div class="project-container">
@@ -46,9 +46,9 @@
 </div>
 
 <div class="project-photo">
-    <img src="assets/img/1.jpg" style="width: 800px; height: 430px;justify-content:center;">
-    <img src="assets/img/1.jpg" style="width: 800px; height: 430px;justify-content:center;">
-    <img src="assets/img/1.jpg" style="width: 800px; height: 430px;justify-content:center;">
+    <img src="assets/img/1.jpg" class="past-photo" style="width: 800px; height: 430px;justify-content:center;">
+    <img src="assets/img/1.jpg" class="past-photo" style="width: 800px; height: 430px;justify-content:center;">
+    <img src="assets/img/1.jpg" class="past-photo" style="width: 800px; height: 430px;justify-content:center;">
 </div>
 
 <hr>
