@@ -77,14 +77,16 @@
 @media screen and (max-width: 505px){
 	.wa-btn-container{
 		border-radius: 50%;
-		display: inline-block;
 		position: fixed;
-		right: 1.8%;
-		bottom: 13%;
+		display: inline-block;
+		right: 1%;
+		bottom: 12%;
 		width: 50px;
 		height: 50px;
 		/* background-color: green; */
-		background-image: url("/assets/img/wa.png");
+		background-image:url('/assets/img/wa.png');
+		margin-right: 9px;
+		/* background-size: 50px 50px; */
 	}
 	.wa-btn{
 		border-radius: 50%;
