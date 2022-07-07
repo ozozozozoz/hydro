@@ -23,7 +23,10 @@ Route::get('/', function () {
 //     return view('about');
 // });
 
-Route::get('about', [AboutViewController::class,'index']);
+// Route::get('about', [AboutViewController::class,'index']);
+Route::get('/about', function () {
+    return view('about');
+});
 
 Route::view('expertise', 'expertise');
 

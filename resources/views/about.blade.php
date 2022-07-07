@@ -10,14 +10,20 @@
 
 @section('content')
 
-    @foreach ($abouts as $about)
+    {{-- @foreach ($abouts as $about)
     
     <h1>{{ $about->Headline }}</h1><br/>
     <h3>{{ $about->P1 }}</h3>
     <p>{{ $about->P2 }}</p>
     
-    @endforeach
+    @endforeach --}}
+    <h4>Founded in 2001 by John Doe, gravida nibh vel velit auctor aliquet. Aenean sollicitudin, 
+        lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. 
+        Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. 
+        Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat.</h4>
     <br/>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat ex finibus urna tincidunt, 
+    auctor ullamcorper risus luctus. Nunc et feugiat arcu, in placerat risus. Phasellus condimentum sapien vitae.</p><br/>
     <div class="photo-div">
         <ul style="list-style-type: none;font-size:21px">
             <li>
