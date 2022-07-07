@@ -187,7 +187,7 @@
 	right: 0.9%;
 	bottom: 12%;
 	width: 50px;
-	height: 50px;" href="https://api.whatsapp.com/send?phone=6281288472408" ></a>
+	height: 50px;" href="https://api.whatsapp.com/send?phone=6281288572408" ></a>
   {{-- <img src="/assets/img/wa.png" style="width: 60px;border-radius:50%;"/> --}}
 </div>
 
